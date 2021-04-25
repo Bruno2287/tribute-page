@@ -1,0 +1,54 @@
+#main {
+    background: linear-gradient(90deg, black, silver);
+    }
+  
+  #title {
+    background-color: orange;
+    color: black;
+    font-size: 45px;
+    font-family: Acme;
+    text-align: center;
+    }
+  
+  #tribute-info {
+    color: black;
+    font-size: 18px;
+    font-family: mono;
+  }
+  
+  #image {
+    display: block;
+    margin: 0px auto;
+    max-width: 100%;
+    
+}
+  
+  #img-div {
+      background-color: black;
+  } 
+
+  #img-caption {
+    text-align: center;
+    font-family: mono;
+    font-style: oblique;
+    font-size: 20px;
+  }
+  
+  h2 {
+    text-align: center;
+    font-family: mono;  
+  }
+  
+  ul {
+    font-family: mono;
+    margin: 20px 0px 0px 0px;
+    text-align: center;
+    line-height-step: 5px;
+}
+ 
+
+  #tribute-link {
+    text-align: center;
+    font-family: mono;
+    font-style: oblique;
+  }
